@@ -1,5 +1,20 @@
 {
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "unittestingactivity",
+  "version": "1.0.0",
+  "main": "greet.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFernandez0524/unitTestingActivity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFernandez0524/unitTestingActivity/issues"
+  },
+  "homepage": "https://github.com/JFernandez0524/unitTestingActivity#readme",
+  "description": ""
 }
